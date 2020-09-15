@@ -27,7 +27,7 @@ public class Main {
     int A = X / Y; 
 
     // tell the user the answer 
-    System.out.println(X + "/" + Y +  "is"  + A +  "with a remainder of" +  X%Y);
+    System.out.println(X + "/" + Y +  " is "  + A +  " with a remainder of " +  X%Y);
 
  
 
